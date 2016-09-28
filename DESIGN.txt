@@ -1,0 +1,54 @@
+William Xiong 
+
+Genre: Action/Survival
+
+Title: SnakeWorld
+
+Back story: 
+As a common-variety garden snake, life has become hard.
+Gardeners have started putting out rat poison to kill the mice that 
+infest the garden, robbing you of your main source of food. Every night is
+a struggle to survive. You must navigate the treacherous gardens for any
+living mice to devour, while avoiding rat poison, mouse traps, and
+other dangers that may lurk in the garden. Your goal is simply to survive.
+
+Goal:
+In order to advance to the next level, you must eat a predetermined 
+number of randomly generated mice within a certain time while 
+avoiding obstacles such as poison, mouse traps, walls, and yourself.
+If you eat the number of mice required, you will automatically advance 
+to the next level. The mice will try to move around.
+
+If you don't eat enough mice within specified time, you will starve to death. 
+If you run into yourself, walls, poison, or other traps, you die as well.
+Unlike the classic snake game, you do not get longer as you eat more mice.
+Whatever part of the snake appears on the screen will stay on the screen (the snake grows over time).
+This means that you will eventually run out of room if you do not eat mice quickly.   
+
+In the boss level, you must defeat another snake by trapping it so that it cannot move.
+If you do this within a certain time, you win. If you run out of time, you lose.
+
+
+
+Mechanics:
+This is a variation on the classic snake game.
+There is a "walk-around" mode where you can visit different gardens.
+There are 3 gardens, representing 3 different difficulties. Each garden
+has 3 levels and a boss level. Each level is like the one mentioned 
+in the goal. Each boss has different, hidden powers.
+ 
+Use the arrow keys to move around, avoid obstacles, and eat mice.
+
+
+Different modes and levels:
+Each level will include more types of obstacles and different types
+of mice (which will be harder to catch). The different modes in this game 
+are the boss levels, which are different from the rest of the levels, and the 
+"walk-around" mode, which will let you walk around and pick a garden to enter. 
+
+
+
+
+
+
+
